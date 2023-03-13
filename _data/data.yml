@@ -8,28 +8,24 @@ sidebar:
 
   # Profile information
   name: Loren Anderson
-  tagline: Principal Consultant - Senior Software Engineer, TPM, BA
+  tagline: Senior Software Engineer
   avatar: profile.png
 
   # Sidebar links
   email: loren@goinnovise.com
   phone: 425-941-5979
-  website: goinnovise.com
+  website:
   linkedin: loren-anderson
-  github: TheOfficialLoren
+  github:
   gitlab:
   bitbucket:
   twitter:
   stack-overflow: 1121638/lorengphd
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-
-  #languages:
-  #- idiom: English
-  #level: Native
+  goodreads:
 
   interests:
-    - item: Photography
+    - item: Golf
       link:
 
     - item: Fitness
@@ -38,40 +34,33 @@ sidebar:
     - item: Travel
       link:
 
-    - item: Gaming
+    - item: Racing
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Loren is a Senior Software Engineer with 10+ years of experience successfully
-    leading teams and educating businesses on development methodologies and best
-    practices. With his extensive knowledge of a wide array of software technologies,
-    languages and frameworks, Loren has assumed many different roles throughout his
-    career such as Systems Architect, Project Manager and Business Analyst, while
-    simultaneously programming and remaining a Senior Software Engineer. He excels
-    at quickly understanding the architectural landscape of businesses to advise and
-    bridge the gap between technical and non-technical teams to achieve business
-    goals, which is why he continues to be effective in the consulting industry.
+    Loren is an experienced full stack Software Engineer with over 15 years in the field, having successfully built software systems and led teams across diverse projects and industries. With a comprehensive knowledge of software technologies, languages, and frameworks, Loren has assumed various roles, including Systems Architect, Project Manager, and Business Analyst. Loren's ability to rapidly understand the technical landscape of businesses, coupled with their expertise in consulting, allows them to bridge the gap between technical and non-technical teams to achieve business objectives effectively.
 
 education:
   - degree: General Studies - Focus on Business
     university: Western Washington University
 
 experiences:
-  - role: Principal Consultant, President
+  - role: Principal Software Consultant
     time: November 2019 - Present
     company: Innovise Technologies
     location: Bellevue, WA
     details: |
-      As owner and Principal Consultant of Innovise, Loren is responsible for serving clients across many industries in an array of ways. Roles that Loren serves for clients include CTO, Software Development Lead, and Software Engineer. He partners with small and medium-sized organizations to understand business goals, challenges, and needs thens presents creative and innovative solutions. Day-to-Day oversight and responsibilities include, but are not limited to architecting software, managing teams, and conducting business analyses.
+      Loren has excelled in serving clients across various industries in multiple capacities, including Chief Technology Officer, Software Development Lead, and Software Engineer. Adapting to diverse client needs and delivering exceptional service, Loren has become a highly-regarded software consultant.
 
       _Accomplishments_
-        - Saved client 60% on their monthly cost on monthly Azure spend by containerizing applications, moving scheduled processes to serverless functions, removing uneeded VM's, and more.
-        - Refactored and rebuilt slow and monolithic software systems built in .Net with C# to increase system speed and performance. Increased response time of systems by up to 75% by utilizing WebSockets throughout the system.
-        - Designed, built, deployed, and operated complete software systems utilizing NodeJs and React hosted in Firebase and integrated with many external systems
-        - Helped the client organize a software development team and put Agile processes in place utilizing Atlassian tools.         
-        - Adopted existing, but abandoned VueJs web application and rebuilt to new specifications of the client.
+        - Adapted to various roles, serving clients from CTO to software developer
+        - Implemented cloud cost reduction strategies, saving clients up to 60% in monthly expenses
+        - Refactored and rebuilt slow .NET systems in C#, enhancing system speed and performance by up to 75%
+        - Designed, built, deployed, and operated complete software systems using Node.js and React, integrated with various external systems
+        - Helped clients organize software development teams, implementing Agile processes using Atlassian tools
+        - Revamped and rebuilt an abandoned Vue.js web application to meet client specifications
 
   - role: Senior Software Engineer
     time: May 2019 - January 2020
@@ -174,65 +163,17 @@ experiences:
         - Built and maintained a multi-million dollar checkout experience using Asp.net and C#.
         - Implemented and lead the first team in the company to adopt Scrum methodologies.
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-
-  papers:
-    - title: The Art of Computer Programming
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
   - title: Languages
-    value: "C#, Java, TypeScript, JavaScript, GoLang, Python, VB, SQL"
+    value: "C#, TypeScript, JavaScript, GoLang, Python, PHP, VB, SQL, Java"
   - title: Frameworks
-    value: ".NET, Angular, ReactJs, VueJs, RxjJS, Spring Boot, BeeGo, jQuery, Jekyll"
+    value: ".NET, ReactJs, NextJs, Angular, VueJs, RxjJS, Spring Boot, jQuery, Jekyll"
   - title: Tools
-    value: "Windows, Mac OS, Redux, Visual Studio, VS Code, Agile, Scrum, SAFe"
+    value: "Windows, Mac OS, Visual Studio, VS Code, Agile"
   - title: Operations
-    value: "CICD, Docker, Kubernetes, Helm, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bamboo"
+    value: "CICD, Firebase, Docker, Kubernetes, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bitbucket"
   - title: Other
-    value: "Leading Teams, Cross-Functional Communication, Git, Azure, SQL Server, Postgres"
+    value: "Team Lead, Cross-Functional Communication, Git, Azure, AWS, SQL Server, Postgres, Firestore"
 
 # Examples section. Useful for UX designers or other visual additions
 showExamples: false

@@ -3,7 +3,7 @@
 # Site Settings
 title: Professional Resume from Innovise Technologies
 url: "http://goinnovise.com"
-baseurl: "/loren" #change it according to your repository name
+baseurl: "/loren-a" #change it according to your repository name
 description: Innovise Technologies - Resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: _orange # blue turquoise green berry orange ceramic

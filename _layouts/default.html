@@ -14,14 +14,7 @@
     <div class="wrapper">
       {% include sidebar.liquid %}
 
-      <div class="main-wrapper">
-        <img
-          style="display: block; margin: 10px auto 20px auto"
-          src="assets/images/innovise-logo.png"
-          alt="Innovise, LLC Logo"
-        />
-        {{ content }}
-      </div>
+      <div class="main-wrapper">{{ content }}</div>
     </div>
 
     {% include footer.liquid %} {% include scripts.liquid %}
