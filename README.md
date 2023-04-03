@@ -13,10 +13,10 @@ This is a jekyll application. Install Jekyll following the instructions for your
 ## To create a resume for a new employee
 
 1. Create a new repo in github: https://github.com/new. Name the repo the employee's name.
-2. On your machine navigate to `dev/innovise/resumes` then `git clone https://github.com/goinnovise/<emplyee-name>.git`.
+2. On your machine navigate to `dev/innovise/resumes` then `git clone git@github.com-lorenAtInnovise:goinnovise/<emplyee-name>.git`.
 3. `cd <employee-name>`
 4. `git checkout master`
-5. `git remote add upstream https://github.com/goinnovise/loren.git`
+5. `git remote add upstream git@github.com-lorenAtInnovise:goinnovise/loren.git`
 6. `git pull upstream master`
 7. `git push -u origin master` The -u argument sets the origin master branch to the upstream branch for change tracking.
 8. Go to repo settings and enable GitHub pages
